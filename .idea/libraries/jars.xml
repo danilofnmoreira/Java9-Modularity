@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapter8/readability_rules/jars/jackson-annotations-2.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter8/readability_rules/jars/jackson-core-2.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="generate_moduledescriptors_jackson">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapter10/generate_moduledescriptors_jackson/jackson-core-2.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter10/generate_moduledescriptors_jackson/jackson-annotations-2.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter10/generate_moduledescriptors_jackson/jackson-databind-2.8.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

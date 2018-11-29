@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/spring-beans-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/cdi-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/commons-pool-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/commons-dbcp-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/log4j-api-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/spring-orm-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/spring-expression-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/spring-core-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/spring-jdbc-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/hibernate-commons-annotations-5.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/geronimo-jta_1.1_spec-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/hsqldb-2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/el-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/log4j-core-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/spring-aop-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/jsr250-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/slf4j-simple-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/jandex-2.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/classmate-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/jboss-logging-3.3.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/lib/jcl-over-slf4j-1.7.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

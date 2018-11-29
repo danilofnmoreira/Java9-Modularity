@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java9-Modularity.iml" filepath="$PROJECT_DIR$/Java9-Modularity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9-Modularity1.iml" filepath="$PROJECT_DIR$/Java9-Modularity1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9-Modularity2.iml" filepath="$PROJECT_DIR$/Java9-Modularity2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9-Modularity3.iml" filepath="$PROJECT_DIR$/Java9-Modularity3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9-Modularity4.iml" filepath="$PROJECT_DIR$/Java9-Modularity4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/annotated_module/src/annotated/annotated.iml" filepath="$PROJECT_DIR$/chapter6/annotated_module/src/annotated/annotated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/container/src-appa/app.a/app.a.iml" filepath="$PROJECT_DIR$/chapter6/container/src-appa/app.a/app.a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/container/src-appb/app.b/app.b.iml" filepath="$PROJECT_DIR$/chapter6/container/src-appb/app.b/app.b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/lookup/src/application/application.iml" filepath="$PROJECT_DIR$/chapter6/lookup/src/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/cyclic_dependencies/without_cycle/src/authors/authors.iml" filepath="$PROJECT_DIR$/chapter5/cyclic_dependencies/without_cycle/src/authors/authors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/spring-hibernate/src/bookapp/bookapp.iml" filepath="$PROJECT_DIR$/chapter9/spring-hibernate/src/bookapp/bookapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/readability_rules/src/books/books.iml" filepath="$PROJECT_DIR$/chapter8/readability_rules/src/books/books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/src/books.api/books.api.iml" filepath="$PROJECT_DIR$/chapter9/spring-hibernate-refactored/src/books.api/books.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/src/books.impl/books.impl.iml" filepath="$PROJECT_DIR$/chapter9/spring-hibernate-refactored/src/books.impl/books.impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/src/bookstore/bookstore.iml" filepath="$PROJECT_DIR$/chapter9/spring-hibernate-refactored/src/bookstore/bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2/chapter2.iml" filepath="$PROJECT_DIR$/chapter2/chapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/cyclic_dependencies/cycle/cycle.iml" filepath="$PROJECT_DIR$/chapter5/cyclic_dependencies/cycle/cycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/easytext-singlemodule/src/easytext/easytext.iml" filepath="$PROJECT_DIR$/chapter3/easytext-singlemodule/src/easytext/easytext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/easytext-twomodules/src/easytext.analysis/easytext.analysis.iml" filepath="$PROJECT_DIR$/chapter3/easytext-twomodules/src/easytext.analysis/easytext.analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/providers/src/easytext.analysis.api/easytext.analysis.api.iml" filepath="$PROJECT_DIR$/chapter4/providers/src/easytext.analysis.api/easytext.analysis.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/easytext-services/src/easytext.analysis.coleman/easytext.analysis.coleman.iml" filepath="$PROJECT_DIR$/chapter4/easytext-services/src/easytext.analysis.coleman/easytext.analysis.coleman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/easytext-factory/src/easytext.analysis.factory/easytext.analysis.factory.iml" filepath="$PROJECT_DIR$/chapter4/easytext-factory/src/easytext.analysis.factory/easytext.analysis.factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/easytext-services/src/easytext.analysis.kincaid/easytext.analysis.kincaid.iml" filepath="$PROJECT_DIR$/chapter4/easytext-services/src/easytext.analysis.kincaid/easytext.analysis.kincaid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/easytext-services/src/easytext.cli/easytext.cli.iml" filepath="$PROJECT_DIR$/chapter4/easytext-services/src/easytext.cli/easytext.cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/implied_readability/src/easytext.client/easytext.client.iml" filepath="$PROJECT_DIR$/chapter5/implied_readability/src/easytext.client/easytext.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/implied_readability/src/easytext.domain.api/easytext.domain.api.iml" filepath="$PROJECT_DIR$/chapter5/implied_readability/src/easytext.domain.api/easytext.domain.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/easytext-filtering/src/easytext.filtering/easytext.filtering.iml" filepath="$PROJECT_DIR$/chapter4/easytext-filtering/src/easytext.filtering/easytext.filtering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/easytext-services/src/easytext.gui/easytext.gui.iml" filepath="$PROJECT_DIR$/chapter4/easytext-services/src/easytext.gui/easytext.gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/implied_readability/src/easytext.repository.api/easytext.repository.api.iml" filepath="$PROJECT_DIR$/chapter5/implied_readability/src/easytext.repository.api/easytext.repository.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12/whitebox/src/easytext.syllablecounter/easytext.syllablecounter.iml" filepath="$PROJECT_DIR$/chapter12/whitebox/src/easytext.syllablecounter/easytext.syllablecounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12/blackbox/src-test/easytext.syllablecounter.junit/easytext.syllablecounter.junit.iml" filepath="$PROJECT_DIR$/chapter12/blackbox/src-test/easytext.syllablecounter.junit/easytext.syllablecounter.junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12/blackbox/src-test/easytext.syllablecounter.test/easytext.syllablecounter.test.iml" filepath="$PROJECT_DIR$/chapter12/blackbox/src-test/easytext.syllablecounter.test/easytext.syllablecounter.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/chapter7/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/optional_dependencies_service/src/fastjsonlib/fastjsonlib.iml" filepath="$PROJECT_DIR$/chapter5/optional_dependencies_service/src/fastjsonlib/fastjsonlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/resource_encapsulation/src/firstresourcemodule/firstresourcemodule.iml" filepath="$PROJECT_DIR$/chapter5/resource_encapsulation/src/firstresourcemodule/firstresourcemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/optional_dependencies_service/src/framework/framework.iml" filepath="$PROJECT_DIR$/chapter5/optional_dependencies_service/src/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/generate_moduledescriptor/generate_moduledescriptor.iml" filepath="$PROJECT_DIR$/chapter10/generate_moduledescriptor/generate_moduledescriptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/helloworld/src/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/chapter3/helloworld/src/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/introspection/introspection.iml" filepath="$PROJECT_DIR$/chapter6/introspection/introspection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/jackson-classpath/jackson-classpath.iml" filepath="$PROJECT_DIR$/chapter8/jackson-classpath/jackson-classpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/jaxb/jaxb.iml" filepath="$PROJECT_DIR$/chapter7/jaxb/jaxb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/spring-hibernate-refactored/src/main/main.iml" filepath="$PROJECT_DIR$/chapter9/spring-hibernate-refactored/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/modulename/modulename.iml" filepath="$PROJECT_DIR$/chapter10/modulename/modulename.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/multirelease/multirelease.iml" filepath="$PROJECT_DIR$/chapter10/multirelease/multirelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/lookup/src/ormframework/ormframework.iml" filepath="$PROJECT_DIR$/chapter6/lookup/src/ormframework/ormframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/container/src-container/platform.api/platform.api.iml" filepath="$PROJECT_DIR$/chapter6/container/src-container/platform.api/platform.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/container/src-container/platform.container/platform.container.iml" filepath="$PROJECT_DIR$/chapter6/container/src-container/platform.container/platform.container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/plugins/src-plugina/plugin.a/plugin.a.iml" filepath="$PROJECT_DIR$/chapter6/plugins/src-plugina/plugin.a/plugin.a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/plugins/src-pluginb/plugin.b/plugin.b.iml" filepath="$PROJECT_DIR$/chapter6/plugins/src-pluginb/plugin.b/plugin.b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/plugins/src-pluginhost/pluginhost/pluginhost.iml" filepath="$PROJECT_DIR$/chapter6/plugins/src-pluginhost/pluginhost/pluginhost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/plugins/src-pluginhost/pluginhost.api/pluginhost.api.iml" filepath="$PROJECT_DIR$/chapter6/plugins/src-pluginhost/pluginhost.api/pluginhost.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/providers/src/provider.factory.example/provider.factory.example.iml" filepath="$PROJECT_DIR$/chapter4/providers/src/provider.factory.example/provider.factory.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/providers/src/provider.method.example/provider.method.example.iml" filepath="$PROJECT_DIR$/chapter4/providers/src/provider.method.example/provider.method.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/removedtypes/removedtypes.iml" filepath="$PROJECT_DIR$/chapter7/removedtypes/removedtypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/resourcebundles/src/resourcebundle.dutch/resourcebundle.dutch.iml" filepath="$PROJECT_DIR$/chapter5/resourcebundles/src/resourcebundle.dutch/resourcebundle.dutch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/resourcebundles/src/resourcebundle.main/resourcebundle.main.iml" filepath="$PROJECT_DIR$/chapter5/resourcebundles/src/resourcebundle.main/resourcebundle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/runtime_loading/src/runtime.loading.example/runtime.loading.example.iml" filepath="$PROJECT_DIR$/chapter8/runtime_loading/src/runtime.loading.example/runtime.loading.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/optional_dependencies_annotations/src/schemagenerator/schemagenerator.iml" filepath="$PROJECT_DIR$/chapter5/optional_dependencies_annotations/src/schemagenerator/schemagenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/resource_encapsulation/src/secondresourcemodule/secondresourcemodule.iml" filepath="$PROJECT_DIR$/chapter5/resource_encapsulation/src/secondresourcemodule/secondresourcemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/plugins/src-pluginb/somelibrary/somelibrary.iml" filepath="$PROJECT_DIR$/chapter6/plugins/src-pluginb/somelibrary/somelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/spring-hibernate-starter/spring-hibernate-starter.iml" filepath="$PROJECT_DIR$/chapter9/spring-hibernate-starter/spring-hibernate-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/multirelease/src/META-INF/versions/versions.iml" filepath="$PROJECT_DIR$/chapter10/multirelease/src/META-INF/versions/versions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12/whitebox/whitebox.iml" filepath="$PROJECT_DIR$/chapter12/whitebox/whitebox.iml" />
+    </modules>
+  </component>
+</project>

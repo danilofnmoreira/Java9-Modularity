@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate/mods/hibernate-core-5.2.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate/mods/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate/mods/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate/mods/spring-tx-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate/mods/spring-context-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter9/spring-hibernate/mods/javassist-3.20.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
